@@ -1,0 +1,18 @@
+[
+  {
+    "as_of_time": "2026-02-20T00:00:00Z",
+    "inferred_state": "no_significant_event",
+    "confidence_band": "low",
+    "action": "no_action",
+    "action_subtype": null,
+    "hitl_status": "auto_approved"
+  },
+  {
+    "as_of_time": "2026-03-27T00:00:00Z",
+    "inferred_state": "new_child_life_event",
+    "confidence_band": "high",
+    "action": "personalized_offer",
+    "action_subtype": "childcare_savings_or_insurance_plan",
+    "hitl_status": "escalated"
+  }
+]

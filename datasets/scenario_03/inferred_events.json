@@ -1,0 +1,26 @@
+[
+  {
+    "as_of_time": "2026-02-15T00:00:00Z",
+    "inferred_state": "churn_risk",
+    "confidence_band": "medium",
+    "action": "no_action",
+    "action_subtype": null,
+    "hitl_status": "auto_approved"
+  },
+  {
+    "as_of_time": "2026-03-08T00:00:00Z",
+    "inferred_state": "churn_risk",
+    "confidence_band": "high",
+    "action": "relationship_manager_escalation",
+    "action_subtype": "premium_retention_offer_and_fee_waiver",
+    "hitl_status": "escalated"
+  },
+  {
+    "as_of_time": "2026-04-10T00:00:00Z",
+    "inferred_state": "churn_risk",
+    "confidence_band": "high",
+    "action": "proactive_retention_outreach",
+    "action_subtype": null,
+    "hitl_status": "auto_approved"
+  }
+]
